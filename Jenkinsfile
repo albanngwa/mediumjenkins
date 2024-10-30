@@ -66,4 +66,4 @@ pipeline {
      }
    }
  }
-// this is a note
+// this is a comment
